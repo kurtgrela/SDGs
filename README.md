@@ -1,7 +1,5 @@
-SDGs
+United Nations Sustainable Development Goals (SDGs)
 ====
-
-United Nations Sustainable Development Goals
 
 At Open Data Day at the World Bank, I discovered Github as a collaborative tool for improving code.
 
